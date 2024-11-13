@@ -1,0 +1,20 @@
+{
+    "detections": [
+        {
+            "class_name": "placa_veiculo",
+            "confidence": 0.45175063610076904,
+            "gps_coordinates": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            }
+        },
+        {
+            "class_name": "arbusto_fiac",
+            "confidence": 0.3175193667411804,
+            "gps_coordinates": {
+                "latitude": 0.0,
+                "longitude": 0.0
+            }
+        }
+    ]
+}

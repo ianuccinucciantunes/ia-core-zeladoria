@@ -1,0 +1,12 @@
+{
+    "detections": [
+        {
+            "class_name": "veic_estac_irreg",
+            "confidence": 0.26889175176620483,
+            "gps_coordinates": {
+                "latitude": -23.559776979,
+                "longitude": -46.901521855
+            }
+        }
+    ]
+}
